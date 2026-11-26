@@ -1,4 +1,4 @@
-# Hi, I'm Vijay Kumar Reddy 👋
+  # Hi, I'm Vijay Kumar Reddy 👋
 
 ### Aspiring AI/ML Engineer | Applied AI | Generative AI
 
@@ -42,8 +42,8 @@ I'm a final-year B.Tech student at RGUKT Ongole, passionate about building pract
 
 ### 📫 Connect With Me
 
-- LinkedIn: [Add your LinkedIn URL](https://linkedin.com/)
-- Email: Add your professional email
+- LinkedIn: [Add your LinkedIn URL](https://www.linkedin.com/in/naladimmi-vijay-kumar-reddy-1790b5280/)
+- Email: vkrvkr763@gmail.com
 
 ---
 
